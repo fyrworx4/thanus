@@ -1,2 +1,2 @@
-# THANOS
-The Hacking And Networking Offensive Suite
+# TH&NUS
+The Hacking And Networking Utility Suite
